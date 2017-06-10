@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri bot homework",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjb312/liri-bot.git"
+  },
+  "author": "chris barnes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cjb312/liri-bot/issues"
+  },
+  "homepage": "https://github.com/cjb312/liri-bot#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^2.4.0"
+  }
+}
